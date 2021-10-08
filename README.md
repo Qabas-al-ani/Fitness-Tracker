@@ -9,6 +9,8 @@
 - [Contribution](#contribution)
 - [Questions](#questions)
 
+[Click here to view The Tech Blog Live! ]( https://young-waters-38930.herokuapp.com/?id=61606ca853bc1a2ef8d73abe )
+
 ## Description:
 This app helps users to be able to view create and track daily workouts,to be able to log multiple exercises in a workout on a given day also be able to track the (name, type, weight, sets, reps and duration) if there's a need of a cardio exercise cardio exercise, I should be able to track my distance traveled.
 
