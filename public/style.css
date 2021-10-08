@@ -14,14 +14,16 @@ body,
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #bbc4d4;
   color: #ffffff;
   padding: 24px;
   line-height: 3;
   font-size: 1.2rem;
+
 }
 
 a,

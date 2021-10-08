@@ -1,10 +1,9 @@
 const mongoose = require('mongoose');
-const db = require('../models/workout');
+const db = require('../models');
 
-mongoose.connect('mongodb://localhost/workout', {
+mongoose.connect("mongodb+srv://qabas-alani:qabas1234@cluster0.4kloe.mongodb.net/workout", {
   useNewUrlParser: true,
   useFindAndModify: false,
-  // useUnifiedTopology: true,
 });
 
 const workoutSeed = [
